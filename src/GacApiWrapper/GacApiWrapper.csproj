@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <RootNamespace>GacRecce.Api</RootNamespace>
+    <Authors>Kelly Adams</Authors>
+    <Description>This was adapted from the repo https://github.com/kekyo/GACWrap</Description>
+  </PropertyGroup>
+
+</Project>
